@@ -1,10 +1,7 @@
 ---
 mg:
   i18n_languages:
-    ak: Akan
-    am: Amharika
     ar: Arabo
-    az-short: az
     be: Bielorosy
     bg: Biolgara
     bn: Bengali
@@ -12,8 +9,6 @@ mg:
     de: Alemanina
     el: Grika
     en: Anglisy
-    en_GB-short: en_GB
-    en_US-short: en_US
     es: Espaniola
     fa: Persa
     fr: Frantsay
@@ -24,7 +19,6 @@ mg:
     ig: igbo
     it: Italianina
     ja: Japoney
-    jv: Javaney
     km: khmer
     ko: Koreanina
     mg: Malagasy
@@ -37,7 +31,6 @@ mg:
     pt: Portiogey
     ro: Romanianina
     ru: Rosianina
-    rw: Roande
     so: Somalianina
     sv: Soisa
     ta: Tamoila
