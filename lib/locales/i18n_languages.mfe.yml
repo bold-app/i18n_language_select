@@ -1,0 +1,51 @@
+---
+mfe:
+  i18n_languages:
+    ak: akan
+    am: amarik
+    ar: arab
+    az-short: az
+    be: bieloris
+    bg: bilgar
+    bn: bengali
+    cs: tchek
+    de: alman
+    el: grek
+    en: angle
+    en_GB-short: en_GB
+    en_US-short: en_US
+    es: espagnol
+    fa: persan
+    fr: franse
+    ha: haoussa
+    hi: hindi
+    hu: hongrwa
+    id: indonezien
+    ig: igbo
+    it: italien
+    ja: zapone
+    jv: zavane
+    km: khmer, santral
+    ko: koreen
+    mfe: kreol morisien
+    ms: male
+    my: birman
+    ne: nepale
+    nl: olande
+    pa: penjabi
+    pl: polone
+    pt: portige
+    ro: roumin
+    ru: ris
+    rw: rwanda
+    so: somali
+    sv: swedwa
+    ta: tamoul
+    th: thaï
+    tr: tirk
+    uk: ikrenien
+    ur: ourdou
+    vi: vietnamien
+    yo: yoruba
+    zh: sinwa, mandarin
+    zu: zoulou

@@ -1,0 +1,516 @@
+---
+bs:
+  i18n_languages:
+    aa: afarski
+    ab: abhazijski
+    ace: ačineski
+    ach: akoli
+    ada: adangmejski
+    ady: adigejski
+    ae: avestanski
+    af: afrikanerski
+    afh: afrihili
+    agq: aghem
+    ain: ainu
+    ak: akan
+    akk: akadijski
+    ale: aljut
+    alt: južni altai
+    am: amharski
+    an: aragonežanski
+    ang: staroengleski
+    anp: angika
+    ar: arapski
+    ar_001: moderni standardni arapski
+    arc: armajski
+    arn: araukanski
+    arp: arapaho
+    arw: aravak
+    as: asemijski
+    asa: asu
+    ast: asturijski
+    av: avarski
+    awa: avadhi
+    ay: ajmara
+    az: azerbejdžanski
+    az-short: azerski
+    ba: baškirski
+    bal: baluči
+    ban: balinezijski
+    bas: basa
+    bax: bamunski
+    bbj: ghomala
+    be: bjeloruski
+    bej: beja
+    bem: bemba
+    bez: bena
+    bfd: bafut
+    bg: bugarski
+    bho: bojpuri
+    bi: bislama
+    bik: bikol
+    bin: bini
+    bkm: kom
+    bla: siksika
+    bm: bambara
+    bn: bengalski
+    bo: tibetanski
+    br: bretonski
+    bra: braj
+    brx: bodo
+    bs: bosanski
+    bss: akoose
+    bua: buriat
+    bug: buginežanskii
+    bum: bulu
+    byn: blin
+    byv: medumba
+    ca: katalonski
+    cad: kado
+    car: karipski
+    cay: cayuga
+    cch: atsam
+    ce: čečenski
+    ceb: cebuano
+    cgg: čiga
+    ch: čamoro
+    chb: čibča
+    chg: čagatai
+    chk: čukeski
+    chm: mari
+    chn: činukski
+    cho: čoktavski
+    chp: čipvijanski
+    chr: čiroki
+    chy: čejenski
+    ckb: soranski kurdski
+    co: korzikanski
+    cop: koptski
+    cr: kri
+    crh: krimeanski turski
+    cs: češki
+    csb: kašubijanski
+    cu: staroslovenski
+    cv: čuvaški
+    da: danski
+    dak: dakota
+    dar: dargva
+    dav: taita
+    de: njemački
+    de_AT: austrijski njemački
+    de_CH: gornjonjemački (švicarski)
+    del: delaver
+    den: slavski
+    dgr: dogrib
+    din: dinka
+    dje: zarma
+    doi: dogri
+    dsb: donjolužičkosrpski
+    dua: duala
+    dum: srednji holandski
+    dv: divehijski
+    dyo: jola-fonyi
+    dyu: đula
+    dz: džonga
+    dzg: dazaga
+    ebu: embu
+    ee: eve
+    efi: efikski
+    egy: staroegipatski
+    eka: ekajuk
+    el: grčki
+    elx: elamitski
+    en: engleski
+    en_AU: australski engleski
+    en_CA: kanadski engleski
+    en_GB: britanski engleski
+    en_GB-short: engleski (UK)
+    en_US: američki engleski
+    en_US-short: engleski (SAD)
+    enm: srednji engleski
+    eo: esperanto
+    es: španski
+    es_419: latinoamerički španski
+    es_ES: evropski španski
+    es_MX: meksički španski
+    et: estonski
+    eu: baskijski
+    ewo: evondo
+    fa: perzijski
+    fan: fang
+    fat: fanti
+    ff: fulah
+    fi: finski
+    fil: filipinski
+    fj: fidžijski
+    fo: farski
+    fr: francuski
+    fr_CA: kanadski francuski
+    fr_CH: švajcarski francuski
+    frm: srednji francuski
+    fro: starofrancuski
+    frr: severno-frizijski
+    frs: istočni frizijski
+    fur: friulijski
+    fy: frizijski
+    ga: irski
+    gaa: ga
+    gag: gagauški
+    gay: gajo
+    gba: gbaja
+    gd: škotski galski
+    gez: džiz
+    gil: gilbertški
+    gl: galski
+    gmh: srednji visoki nemački
+    gn: gvarani
+    goh: staronemački
+    gon: gondi
+    gor: gorontalo
+    got: gotski
+    grb: grebo
+    grc: starogrčki
+    gsw: švajcarski njemački
+    gu: gudžarati
+    guz: gusii
+    gv: manks
+    gwi: gwich’in
+    ha: hausa
+    hai: haida
+    haw: havajski
+    he: hebrejski
+    hi: hindi
+    hil: hiligajnon
+    hit: hitite
+    hmn: hmong
+    ho: hiri motu
+    hr: hrvatski
+    hsb: gornjolužičkosrpski
+    ht: haićanski
+    hu: mađarski
+    hup: hupa
+    hy: jermenski
+    hz: herero
+    ia: interlingva
+    iba: iban
+    ibb: ibibio
+    id: indonezijski
+    ie: interlingve
+    ig: igbo
+    ii: sičuan ji
+    ik: inupiak
+    ilo: iloko
+    inh: ingušetski
+    io: ido
+    is: islandski
+    it: italijanski
+    iu: inuktitut
+    ja: japanski
+    jbo: lojban
+    jgo: ngomba
+    jmc: machame
+    jpr: judeo-persijski
+    jrb: judeo-arapski
+    jv: javanski
+    ka: gruzijski
+    kaa: kara-kalpaški
+    kab: kabile
+    kac: kačin
+    kaj: žju
+    kam: kamba
+    kaw: kavi
+    kbd: kabardijski
+    kbl: kanembu
+    kcg: tjap
+    kde: makonde
+    kea: zelenortski
+    kfo: koro
+    kg: kongo
+    kha: kasi
+    kho: kotanizijski
+    khq: koyra chiini
+    ki: kikuju
+    kj: kuanjama
+    kk: kazački
+    kkj: kako
+    kl: kalalisutski
+    kln: kalenjin
+    km: kmerski
+    kmb: kimbundu
+    kn: kanada
+    ko: korejski
+    koi: komi-permjački
+    kok: konkani
+    kos: kosreanski
+    kpe: kpele
+    kr: kanuri
+    krc: karačaj-balkar
+    kri: krio
+    krl: karelijski
+    kru: kurukh
+    ks: kašmiri
+    ksb: shambala
+    ksf: bafia
+    ksh: kelnski
+    ku: kurdski
+    kum: kumik
+    kut: kutenai
+    kv: komi
+    kw: korniški
+    ky: kirgiski
+    la: latinski
+    lad: ladino
+    lag: langi
+    lah: landa
+    lam: lamba
+    lb: luksemburški
+    lez: lezgian
+    lg: ganda
+    li: limburgiš
+    lkt: lakota
+    ln: lingala
+    lo: laoški
+    lol: mongo
+    loz: lozi
+    lt: litvanski
+    lu: luba-katanga
+    lua: luba-lulua
+    lui: luiseno
+    lun: lunda
+    lus: lušai
+    luy: luyia
+    lv: letonski
+    mad: madureški
+    maf: mafa
+    mag: magahi
+    mai: maitili
+    mak: makasar
+    man: mandingo
+    mas: masai
+    mde: maba
+    mdf: mokša
+    mdr: mandar
+    men: mende
+    mer: meru
+    mfe: mauricijski kreolski
+    mg: malagazijski
+    mga: srednji irski
+    mgh: makhuwa-meetto
+    mgo: meta’
+    mh: maršalski
+    mi: maorski
+    mic: mikmak
+    min: minangkabau
+    mk: makedonski
+    ml: malajalam
+    mn: mongolski
+    mnc: manču
+    mni: manipuri
+    moh: mahavski
+    mos: mosi
+    mr: marati
+    ms: malajski
+    mt: malteški
+    mua: mundang
+    mul: više jezika
+    mus: kriški
+    mwl: mirandeški
+    mwr: marvari
+    my: burmanski
+    mye: myene
+    myv: erzija
+    na: nauru
+    nap: neapolitanski
+    naq: nama
+    nb: norveški bokmal
+    nd: sjeverni ndebele
+    nds: niski nemački
+    ne: nepalski
+    new: nevari
+    ng: ndonga
+    nia: nias
+    niu: niuean
+    nl: holandski
+    nl_BE: flamanski
+    nmg: kwasio
+    nn: norveški njorsk
+    nnh: ngiemboon
+    'no': norveški
+    nog: nogai
+    non: stari norski
+    nqo: nko
+    nr: južni ndebele
+    nso: severni soto
+    nus: nuer
+    nv: navaho
+    nwc: klasični nevari
+    ny: njanja
+    nym: njamvezi
+    nyn: njankole
+    nyo: njoro
+    nzi: nzima
+    oc: provansalski
+    oj: ojibva
+    om: oromo
+    or: orijski
+    os: osetski
+    osa: osage
+    ota: otomanski turski
+    pa: pandžabski
+    pag: pangasinski
+    pal: pahlavi
+    pam: pampanga
+    pap: papiamento
+    pau: palauanski
+    peo: staropersijski
+    phn: feničanski
+    pi: pali
+    pl: poljski
+    pon: ponpejski
+    pro: staroprovansalski
+    ps: paštunski
+    ps-variant: pušto
+    pt: portugalski
+    qu: kvenča
+    quc: kiče
+    raj: rađastani
+    rap: rapanui
+    rar: rarotongan
+    rm: reto-romanski
+    rn: rundi
+    ro: rumunski
+    ro_MD: moldavski
+    rof: rombo
+    rom: romani
+    root: run
+    ru: ruski
+    rup: aromanijski
+    rw: kinjarvanda
+    rwk: rua
+    sa: sanskrit
+    sad: sandave
+    sah: jakut
+    sam: samaritanski aramejski
+    saq: samburu
+    sas: sasak
+    sat: santali
+    sba: ngambay
+    sbp: sangu
+    sc: sardinijski
+    scn: sicilijanski
+    sco: škotski
+    sd: sindi
+    se: sjeverni sami
+    see: seneca
+    seh: sena
+    sel: selkap
+    ses: kojraboro seni
+    sg: sango
+    sga: staroirski
+    sh: srpskohrvatski
+    shi: tahelhit
+    shn: šan
+    shu: čadski arapski
+    si: singaleski
+    sid: sidamo
+    sk: slovački
+    sl: slovenački
+    sm: samoanski
+    sma: južni sami
+    smj: lule sami
+    smn: inari sami
+    sms: skoltski jezik
+    sn: šona
+    snk: soninke
+    so: somalski
+    sog: sodžijenski
+    sq: albanski
+    sr: srpski
+    srn: srananski tongo
+    srr: serer
+    ss: svati
+    ssy: saho
+    st: sesoto
+    su: sudanski
+    suk: sukuma
+    sus: susu
+    sux: sumerski
+    sv: švedski
+    sw: svahili
+    swb: komorski
+    swc: kongoanski swahili
+    syc: klasični sirijski
+    syr: sirijski
+    ta: tamilski
+    te: telugu
+    tem: timne
+    teo: teso
+    ter: tereno
+    tet: tetum
+    tg: tadžički
+    th: tajlandski
+    ti: tigrinja
+    tig: tigre
+    tk: turkmenski
+    tkl: tokelau
+    tl: tagalski
+    tlh: klingonski
+    tli: tlingit
+    tmh: tamašek
+    tn: tsvana
+    to: tonga
+    tog: njasa tonga
+    tpi: tok pisin
+    tr: turski
+    trv: taroko
+    ts: tsonga
+    tsi: tsimšian
+    tt: tatarski
+    tum: tumbuka
+    tvl: tuvalu
+    tw: tvi
+    twq: tasavak
+    ty: tahićanski
+    tyv: tuvinijski
+    tzm: marokanski tamazigt
+    udm: udmurt
+    ug: ujgurski
+    uga: ugaritski
+    uk: ukrajinski
+    umb: umbundu
+    und: nepoznati ili nevažeći jezik
+    ur: urdu
+    uz: uzbečki
+    ve: venda
+    vi: vijetnamski
+    vo: volapük
+    vot: votski
+    vun: vunjo
+    wa: valun
+    wae: walser
+    wal: valamo
+    war: varej
+    was: vašo
+    wo: volof
+    xal: kalmik
+    xh: kosa
+    xog: soga
+    yao: jao
+    yap: japeški
+    yav: yangben
+    ybb: yemba
+    yi: jidiš
+    yo: jorubanski
+    yue: kantonski
+    za: zuang
+    zap: zapotečki
+    zbl: blisimboli
+    zen: zenaga
+    zgh: standardni marokanski tamazigt
+    zh: kineski
+    zh_Hans: kineski (pojednostavljeni)
+    zh_Hant: kineski (tradicionalni)
+    zu: zulu
+    zun: zuni
+    zxx: bez lingvističkog sadržaja
+    zza: zaza
