@@ -1,7 +1,13 @@
 require 'yaml'
 require 'open-uri'
 require 'nokogiri'
-require 'threach'
+
+
+begin
+  require 'threach'
+rescue LoadError
+  # Importing should be done on dev
+end
 
 # Imports ISO 639-1 country codes
 # It parses a HTML file from Unicode.org for given locale and saves the
