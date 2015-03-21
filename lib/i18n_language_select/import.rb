@@ -18,7 +18,7 @@ module I18nLanguageSelect
     attr_reader :locales
 
     def initialize(locales = nil, namespace=nil)
-      @namespace = namespace || I18nLanguageSelect::NAMESPACE
+      @namespace = namespace || I18nLanguageSelect.configuration.namespace.to_s
       @locales = if locales
         locales.split(",")
       else
