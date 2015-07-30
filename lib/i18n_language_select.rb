@@ -2,7 +2,6 @@ require "i18n_language_select/version"
 require "i18n_language_select/form_helpers"
 require "i18n_language_select/instance_tag"
 require "i18n_language_select/form_builder"
-require "i18n_language_select/import"
 require 'i18n_language_select/railtie' if defined?(Rails)
 
 module I18nLanguageSelect
