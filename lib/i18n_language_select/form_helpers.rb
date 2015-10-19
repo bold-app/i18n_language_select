@@ -6,7 +6,7 @@ module I18nLanguageSelect
         instance_tag.to_language_code_select_tag(priority_languages, html_options)
       else
         instance_tag = ActionView::Helpers::InstanceTag.new(object_name, method, self, options.delete(:object))
-        instance.to_language_code_select_tag(priority_languages, html_options, options)
+        instance_tag.to_language_code_select_tag(priority_languages, html_options, options)
       end
     end
   end
