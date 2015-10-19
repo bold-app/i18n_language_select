@@ -1,7 +1,7 @@
 require "i18n_language_select/version"
+require "i18n_language_select/form_builder"
 require "i18n_language_select/form_helpers"
 require "i18n_language_select/instance_tag"
-require "i18n_language_select/form_builder"
 require 'i18n_language_select/railtie' if defined?(Rails)
 
 module I18nLanguageSelect
@@ -39,7 +39,7 @@ end
 
 ActionView::Base.send(:include, I18nLanguageSelect::FormHelpers)
 if Rails::VERSION::MAJOR >= 4
-  ActionView::Helpers::ActiveModelInstanceTag.send(:include, I18nLanguageSelect::InstanceTag)
+  ActionView::Helpers::Tags::Select.send(:include, I18nLanguageSelect::InstanceTag)
 else
   ActionView::Helpers::InstanceTag.send(:include, I18nLanguageSelect::InstanceTag)
 end
